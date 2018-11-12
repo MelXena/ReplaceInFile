@@ -1,0 +1,478 @@
+{
+  "DateFormat": "yyyy.MM.dd",
+  "TimeFormat": "HH:mm:ss",
+  "MainWindowPos": "2004,3",
+  "MainWindowSize": "1709,1166",
+  "MainWindowState": "Normal",
+  "ThemeType": "VisualStudio2013Light",
+  "RibbonIsMinimized": false,
+  "FreezeLayout": false,
+  "ShowSoftwareUpgradeControls": true,
+  "ShowOnlyMacAddrForUsedPorts": false,
+  "PortResetDelay": 4000.0,
+  "AskToRelinquish": true,
+  "UseSyncPortStart": false,
+  "TxBpsZeroCheckPeriod": 0,
+  "CompanyName": "Xena Networks ApS",
+  "ReportLogoPath": "",
+  "ReportingPath": "",
+  "OpenReportInViewer": true,
+  "MruConfigList": [
+    "D:\\Documents\\Xena\\XenaManager-2G\\PVF Test Setup.xmcfg",
+    "D:\\Documents\\Xena\\XenaManager-2G\\Stress Test 100 streams on 193.xmcfg",
+    "D:\\Documents\\Xena\\XenaManager-2G\\XM2G Stress Test.xmcfg",
+    "D:\\Documents\\Xena\\XenaManager-2G\\Gauge Test Setup.xmcfg",
+    "D:\\Documents\\Xena\\XenaManager-2G\\default.xmcfg",
+    "C:\\Users\\mel\\OneDrive - Xena Networks\\Dev\\Gauge\\Scheduler\\Gauge Test Setup.xmcfg",
+    "C:\\Users\\mel\\OneDrive - Xena Networks\\Dev\\Gauge\\Scheduler\\Gauge Schedule - AR.xmcfg",
+    "D:\\Documents\\Xena\\XenaManager-2G\\asd.xmcfg"
+  ],
+  "MruChassisList": [
+    "192.168.1.208;22606;xena"
+  ],
+  "LoadLastTestConfigOnStart": true,
+  "GlobalStatsSelectedTab": 1,
+  "EyeInfoGridViewExpanded": true,
+  "PortStatsSettings": {
+    "TxMainExpanded": true,
+    "TxErrorInjectionExpanded": true,
+    "TxMiscControlExpanded": true,
+    "RxMainExpanded": true,
+    "RxTestPayloadErrorsExpanded": true,
+    "RxTestPayloadLatencyExpanded": true,
+    "RxTestPayloadJitterExpanded": true,
+    "RxMiscCountersExpanded": true
+  },
+  "PortStatsGridSettings": {
+    "SummaryExpanded": true,
+    "MainGridExpanded": true,
+    "NonPldGridExpanded": true,
+    "FilterGridExpanded": true,
+    "ArpPingGridExpanded": true,
+    "ErrorsGridExpanded": true,
+    "MultiLinkErrorsGridExpanded": false,
+    "MiscGridExpanded": true,
+    "LatencyGridExpanded": false,
+    "AggrValuesGridExpanded": false,
+    "ColumnStateHandler": {
+      "GridColumnStateMap": {
+        "PortStatsMainGrid": {
+          "ColumnStateMap": {
+            "RxPercent": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": 83
+            },
+            "DisplayName": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxPercent": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxBpsL1": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxBpsL2": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxPps": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxBytes": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxPackets": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxBpsL1": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxBpsL2": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPps": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxBytes": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPackets": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            }
+          }
+        },
+        "FilterStatsGrid": {
+          "ColumnStateMap": {
+            "RxPercent": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": 79
+            },
+            "Description": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "DisplayName": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxBpsL1": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxBpsL2": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPps": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxBytes": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPackets": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            }
+          }
+        },
+        "PortStatsArpPingGrid": {
+          "ColumnStateMap": {
+            "TxArpRequests": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": 105
+            },
+            "RxPingReplies": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": 121
+            },
+            "DisplayName": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxArpReplies": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxPingRequests": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxPingReplies": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxArpRequests": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxArpReplies": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPingRequests": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            }
+          }
+        },
+        "PortStatsMiscGrid": {
+          "ColumnStateMap": {
+            "RxGapDuration": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": 90
+            },
+            "DisplayName": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxTraining": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TxIgmpJoin": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxFcsErrors": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxGapCount": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPauseFrames": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPfcFrames": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPfcQuantasFrames": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            }
+          }
+        }
+      }
+    },
+    "PageSize": 10
+  },
+  "PortTcvrRegSettings": {
+    "AutoLoadLastUsed": true,
+    "LastUsedPath": "D:\\Documents\\Xena\\XenaManager-2G\\TcvrDefs\\m1qsfp28sfp28_v2.xtreg",
+    "AutoRefreshEnabled": false,
+    "AutoRefreshInternal": 1
+  },
+  "StreamStatsGridSettings": {
+    "SummaryExpanded": true,
+    "MainGridExpanded": true,
+    "NonPldGridExpanded": false,
+    "FilterGridExpanded": false,
+    "ArpPingGridExpanded": false,
+    "ErrorsGridExpanded": true,
+    "MultiLinkErrorsGridExpanded": false,
+    "MiscGridExpanded": false,
+    "LatencyGridExpanded": true,
+    "AggrValuesGridExpanded": false,
+    "ColumnStateHandler": {
+      "GridColumnStateMap": {
+        "StreamStatsLatencyGrid": {
+          "ColumnStateMap": {
+            "AggrAvgLatency": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": 82
+            },
+            "TxPortName": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "StreamId": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "TidValueString": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "RxPortName": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "Description": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "AggrMinLatency": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "AggrMaxLatency": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "AggrLatencyRange": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "CurrMinLatency": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "CurrAvgLatency": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "CurrMaxLatency": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "CurrLatencyRange": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "AggrMinJitter": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "AggrAvgJitter": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "AggrMaxJitter": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "AggrJitterRange": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "CurrMinJitter": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "CurrAvgJitter": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "CurrMaxJitter": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            },
+            "CurrJitterRange": {
+              "IsVisible": true,
+              "DisplayIndex": -1,
+              "Width": -1
+            }
+          }
+        }
+      }
+    },
+    "PageSize": 20
+  },
+  "EventLogSettings": {
+    "LogPortErrors": false,
+    "LogPacketErrors": false,
+    "LogDisruptions": true,
+    "GridFilters": []
+  },
+  "ResTreeViewSettings": {
+    "UseStreamDescripInLabel": true
+  },
+  "ChassisPropertySettings": {
+    "ChassisPropertiesExpanded": true,
+    "ManPortSessionsExpanded": false,
+    "CapabilityControlExpanded": true
+  },
+  "ModulePropertySettings": {
+    "ModulePropertiesExpanded": true,
+    "CapabilityControlExpanded": true
+  },
+  "PortPropertySettings": {
+    "MainPropertyControlExpanded": true,
+    "IpAddressControlExpanded": true,
+    "CapabilityControlExpanded": true,
+    "Port40100GTxConfigExpanded": true,
+    "Port40100GRxMonExpanded": true,
+    "Port40100GRxStatusExpanded": true,
+    "Port40100GRxErrorsExpanded": true,
+    "Port40100GLaserPowerExpanded": true,
+    "DhcpWizardGetAddressForPort": true,
+    "DhcpWizardGetAddressForStreams": false,
+    "DhcpWizardUpdatePortArpTable": true
+  },
+  "PortGridConfigSettings": {
+    "GridPortSource": "AllPortsInTestbed",
+    "PageSize": 10
+  },
+  "StreamGridConfigSettings": {
+    "GridStreamSource": "AllPortsInTestbed",
+    "PageSize": 10
+  },
+  "StreamPropertySettings": {
+    "StreamCommonControlExpanded": true,
+    "StreamPropertiesExpanded": true,
+    "StreamPacketHeaderExpanded": true,
+    "StreamModifierControlExpanded": true,
+    "StreamCdfControlExpanded": true,
+    "CdfPageSize": 10,
+    "CalcUdpChecksum": false
+  },
+  "CaptureSettings": {
+    "CaptureConfigurationExpanded": true,
+    "IncludeFcsInPcap": true,
+    "TimeRelativeToStart": true,
+    "TryDecodeTpld": true
+  },
+  "TraceSettings": {
+    "DisableTraceMessages": false,
+    "DisablePollMessages": true,
+    "GridFilters": []
+  },
+  "DiscoverySettings": {
+    "DiscoveryRetries": 5,
+    "WindowWidth": 1069.0,
+    "WindowHeight": 778.0
+  },
+  "ScriptClientSettings": {
+    "WindowPosition": "346,297",
+    "WindowSize": "1187,753"
+  },
+  "SavedFormatVersion": 1,
+  "Username": "Mel",
+  "LoggingLevelName": "Info",
+  "OptionsMap": {}
+}

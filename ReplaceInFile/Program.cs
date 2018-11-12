@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,9 @@ namespace ReplaceInFile
     {
         static void Main(string[] args)
         {
+            string str = File.ReadAllText(@"..\..\ValkyrieManager_settings.txt");
+            str = str.Replace(@"\\Xena\\XenaManager-2G\\", @"\\Xena\\ValkyrieManager\\");
+            File.WriteAllText(@"..\..\ValkyrieManager_settings.txt", str);
         }
     }
 }
